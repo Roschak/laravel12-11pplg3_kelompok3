@@ -98,7 +98,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="member-card animate-fadeIn">
                     <div class="member-img-container">
-                        <img src="{{ asset('images/anggota/1.jpg') }}" alt="Ahmad Rizki" class="member-img"
+                        <img src="{{ asset('cardhafidh.jpg') }}" alt="Ahmad Rizki" class="member-img"
                             onerror="this.src='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="member-info">
@@ -119,7 +119,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="member-card animate-fadeIn delay-1">
                     <div class="member-img-container">
-                        <img src="{{ asset('images/anggota/2.jpg') }}" alt="Siti Rahayu" class="member-img"
+                        <img src="{{ asset('cardnursiska.jpg') }}" alt="Siti Rahayu" class="member-img"
                             onerror="this.src='https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="member-info">
@@ -140,7 +140,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="member-card animate-fadeIn delay-2">
                     <div class="member-img-container">
-                        <img src="{{ asset('images/anggota/3.jpg') }}" alt="Budi Santoso" class="member-img"
+                        <img src="{{ asset('cardragah.jpg') }}" alt="Budi Santoso" class="member-img"
                             onerror="this.src='https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="member-info">
@@ -160,7 +160,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="member-card animate-fadeIn">
                     <div class="member-img-container">
-                        <img src="{{ asset('images/anggota/4.jpg') }}" alt="Dewi Anggraini" class="member-img"
+                        <img src="{{ asset('cardtini.jpg') }}" alt="Dewi Anggraini" class="member-img"
                             onerror="this.src='https://images.unsplash.com/photo-1567532939604-b6b5b0db1604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="member-info">
@@ -180,7 +180,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="member-card animate-fadeIn delay-1">
                     <div class="member-img-container">
-                        <img src="{{ asset('images/anggota/5.jpg') }}" alt="Joko Prasetyo" class="member-img"
+                        <img src="{{ asset('cardsafitri.jpg') }}" alt="Joko Prasetyo" class="member-img"
                             onerror="this.src='https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="member-info">
@@ -200,7 +200,7 @@
             <div class="col-md-6 col-lg-4">
                 <div class="member-card animate-fadeIn delay-2">
                     <div class="member-img-container">
-                        <img src="{{ asset('images/anggota/6.jpg') }}" alt="Maya Indah" class="member-img"
+                        <img src="{{ asset('cardfaqih.jpg') }}" alt="Maya Indah" class="member-img"
                             onerror="this.src='https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80'">
                     </div>
                     <div class="member-info">
