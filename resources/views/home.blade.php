@@ -106,19 +106,47 @@
     </section>
 
 
-    <!-- Contact -->
-    <section class="container mb-5" id="contact">
-        <h2 class="section-title">Kontak Kami</h2>
-        <form class="col-md-8 mx-auto">
-            <div class="mb-3"><label class="form-label">Nama</label><input type="text" class="form-control" required>
+   <!-- Workflow & Roles -->
+<section class="container mb-5" id="workflow">
+    <h2 class="section-title text-center">Alur Kerja & Peran Kami</h2>
+    <p class="text-center mb-5">Inilah alur kerja tim Kelompok 3 beserta peran masing-masing anggota</p>
+
+    <!-- Workflow Concept (Simple Flow) -->
+    <div class="workflow-diagram text-center mb-5">
+        <div class="row g-4 justify-content-center">
+            <div class="col-md-2">
+                <div class="workflow-box p-3 shadow-sm rounded bg-light">
+                    <h5>Data Analyst</h5>
+                    <p>Menganalisis data & kebutuhan</p>
+                </div>
             </div>
-            <div class="mb-3"><label class="form-label">Email</label><input type="email" class="form-control" required>
+            <div class="col-md-2">
+                <div class="workflow-box p-3 shadow-sm rounded bg-light">
+                    <h5>UI/UX Designer</h5>
+                    <p>Membuat desain & user flow</p>
+                </div>
             </div>
-            <div class="mb-3"><label class="form-label">Pesan</label><textarea class="form-control" rows="4"
-                    required></textarea></div>
-            <button type="submit" class="btn btn-primary w-100">Kirim Pesan</button>
-        </form>
-    </section>
+            <div class="col-md-2">
+                <div class="workflow-box p-3 shadow-sm rounded bg-light">
+                    <h5>Front-End</h5>
+                    <p>Membangun tampilan website</p>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="workflow-box p-3 shadow-sm rounded bg-light">
+                    <h5>Back-End (x2)</h5>
+                    <p>Membangun server & API</p>
+                </div>
+            </div>
+            <div class="col-md-2">
+                <div class="workflow-box p-3 shadow-sm rounded bg-light">
+                    <h5>Full Stack</h5>
+                    <p>Menghubungkan front-end & back-end</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
     <!-- Footer -->
     <footer class="text-center p-3">
